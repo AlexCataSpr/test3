@@ -1,2 +1,6 @@
-package exercise;public class Cat {
+package exercise;
+
+public class Cat {
+
+    int age;
 }
